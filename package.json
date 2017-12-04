@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is all about my node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "megha",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-core": "^2.8.0",
+    "shrinkwrap": "^0.4.0",
+    "underscore": "^1.8.3"
+  }
+}
