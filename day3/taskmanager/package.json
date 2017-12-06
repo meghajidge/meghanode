@@ -1,0 +1,20 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "asreet. <amarjeet.sn1@gmail.com> (http://asreet-tech.com)",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "gulp-uglify": "^3.0.0"
+  }
+}
